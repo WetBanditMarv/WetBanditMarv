@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tanner Rodenburg
+- 👀 I’m interested in software development! I'm currently looking for fill an engineering/developer role.
+- 🌱 I’m currently learning web scripting with J2EE. 
+- 💞️ This is my working portfolio. Mostly of class projects. However many of them I was free to create my own work.
+- 📫 How to reach me via e-mail at tcrodenburg@gmail.com or linkedin.com/tcrodenburg
